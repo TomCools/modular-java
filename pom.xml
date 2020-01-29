@@ -30,7 +30,11 @@
             </plugin>
         </plugins>
     </build>
-
+    <modules>
+        <module>domain</module>
+        <module>app-console</module>
+        <module>infra-duvel</module>
+    </modules>
 
 
 </project>
